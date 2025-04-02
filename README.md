@@ -1,4 +1,4 @@
-## I just want to summerize my task and to know much about this project in detail refer to pdf 
+## I just want to summerize my frontend task and to know much about this project in detail refer to bynry_desc.pdf 
 
 This is the task assigned by bynary company and my responsibility is to design a front end such that it must be interactive user interface and also it must have the following functionalities 
 
