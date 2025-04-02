@@ -59,48 +59,50 @@ This is the task assigned by bynary company and my responsibility is to design a
 
 
 2)User Login  (validation)
-![Figure 2](images/fig2.png)
+![Figure 2](project/fig2.png)
 
 
 3)User Login after valid credentials and loading page 
 
-![Figure 3](images/fig3.png)
-![Figure 4](images/fig4.png)
+![Figure 3](project/fig3.png)
+
+![Figure 4](project/fig4.png)
 
 4) ## User Login Display Page 
 
-![Figure 5](images/fig5.png)
+![Figure 5](project/fig5.png)
 
 5) ## Search by filters 
 
-![Figure 6](images/fig6.png)
+![Figure 6](project/fig6.png)
 
 6) ## Card display when clicked on user name 
 
-![Figure 7](images/fig7.png)
+![Figure 7](project/fig7.png)
 
 7) ## Map display when clicked on Summary 
 
-![Figure 8](images/fig8.png)
+![Figure 8](project/fig8.png)
 
 
 8) ## In react we get error if lat,long not found to avoid that js alert is used and is shown as below when lat long not found 
 
+![Figure 14](project/fig14.png)
 
 9) ## Loading to detail profile i.e progress bar and display of detail profile 
 
-![Figure 9](images/fig9.png)
+![Figure 9](project/fig9.png)
 
-![Figure 10](images/fig10.png)
+![Figure 10](project/fig10.png)
 
 
 10) ## Display of admin login page
 
-![Figure 11](images/fig11.png)
+![Figure 11](project/fig11.png)
 
 11) ## Edit page
 
-![Figure 12](images/fig12.png)
+![Figure 12](project/fig12.png)
 
 
 
