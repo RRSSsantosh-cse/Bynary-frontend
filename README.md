@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+## I just want to summerize my task and to know much about this project in detail refer to pdf 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the task assigned by bynary company and my responsibility is to design a front end such that it must be interactive user interface and also it must have the following functionalities 
+ 1.
+ Profile Display: Create a webpage that presents a collection of profiles,
+ each comprising essential information such as the person's name,
+ photograph, and a brief description.
+ 2. Interactive Mapping: Incorporate an interactive map component that can
+ dynamically display addresses based on user interactions. This map will
+ allow users to see the geographical location associated with each profile.
+ 3. SummaryIntegration: Implement a "Summary" button adjacent to each
+ profile. Clicking this button should trigger the display of the map
+ component with a marker indicating the precise address of the selected
+ profile.
+ 4. (Goodtohave)MapServices Integration: Utilise external map services like
+ Google Maps or Mapboxtointegrate the mapping functionality into the
+ application. This entails setting up markers and correctly rendering
+ addresses on the map.
+ 5. User-Friendly Experience: Ensure that the application offers a smooth and
+ intuitive user experience, enabling users to easily navigate profiles and
+ access mappedaddresses without confusion.
+ 6. Profile Data Management : Allow administrators to add, edit, or delete
+ profiles.
+ 7. This will require an admin panel or dashboard to manage the profile data
+ efficiently.
+ 8. Search andFilter Functionality : Provide users with the ability to search and
+ filter profiles based on different criteria, such as name, location, or other
+ attributes. This enhances the usability of the application.
+ 9. Responsive Design : Ensure that the application is responsive and
+ mobile-friendly so that users can access it from various devices, including
+ smartphones and tablets.
+10. Error Handling Implement robust error handling and validation
+ mechanisms to handle issues gracefully, such as invalid addresses or
+ failed map service requests.
+ 11. Loading Indicators : Include loading indicators of progress bars to give
+ users feedback when the application is fetching data or rendering the map.
+ 12. Profile Details: Create a separate profile details view that provides more
+ in-depth information about each profile when a user clicks on a profile
+ card. This can include additional details like contact information, interests,
+ etc.
 
-## Available Scripts
 
-In the project directory, you can run:
+##SUMMERIZATION OF PROJECT 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1)Opening Page  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
