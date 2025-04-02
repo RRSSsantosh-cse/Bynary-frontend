@@ -50,13 +50,57 @@ This is the task assigned by bynary company and my responsibility is to design a
  card. This can include additional details like contact information, interests,
  etc.
 
-##SUMMERIZATION OF PROJECT 
+## SUMMERIZATION OF PROJECT 
 
 
 1)Opening Page  
 
-![Figure 1](project/fig1.png)
+![Figure 1](project/fig1.png) 
 
+
+2)User Login  (validation)
+![Figure 2](images/fig2.png)
+
+
+3)User Login after valid credentials and loading page 
+
+![Figure 3](images/fig3.png)
+![Figure 4](images/fig4.png)
+
+4) ## User Login Display Page 
+
+![Figure 5](images/fig5.png)
+
+5) ## Search by filters 
+
+![Figure 6](images/fig6.png)
+
+6) ## Card display when clicked on user name 
+
+![Figure 7](images/fig7.png)
+
+7) ## Map display when clicked on Summary 
+
+![Figure 8](images/fig8.png)
+
+
+8) ## In react we get error if lat,long not found to avoid that js alert is used and is shown as below when lat long not found 
+
+
+9) ## Loading to detail profile i.e progress bar and display of detail profile 
+
+![Figure 9](images/fig9.png)
+
+![Figure 10](images/fig10.png)
+
+
+10) ## Display of admin login page
+
+![Figure 11](images/fig11.png)
+
+11) ## Edit page
+
+![Figure 12](images/fig12.png)
 
 
 
