@@ -55,7 +55,7 @@ This is the task assigned by bynary company and my responsibility is to design a
 
 1)Opening Page  
 
-![Figure 1](images/fig1.png)
+![Figure 1](project/fig1.png)
 
 
 
